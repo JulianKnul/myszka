@@ -1,0 +1,4 @@
+monkey.turnTo turtle
+monkey.step 9
+turtle.step 15
+monkey.step -9
